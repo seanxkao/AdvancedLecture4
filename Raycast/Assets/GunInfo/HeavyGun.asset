@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a01d7e2056a50e4d9f3dde4efde2847, type: 3}
+  m_Name: HeavyGun
+  m_EditorClassIdentifier: 
+  modelP: {fileID: 100014, guid: 8233791bab55837408982f359042ae45, type: 3}
+  explosionP: {fileID: 1579261619721498, guid: c1b0e0f6671240f4e9b295edd1c629af, type: 2}
+  timeScale: 0.14
+  range: 7.9120083
+  gunShotList:
+  - gunShotSE: {fileID: 8300000, guid: 93e64110a9b2c0a469244dd128441952, type: 3}
+    coolDown: 1
+  - gunShotSE: {fileID: 8300000, guid: 93e64110a9b2c0a469244dd128441952, type: 3}
+    coolDown: 1
+  - gunShotSE: {fileID: 8300000, guid: 93e64110a9b2c0a469244dd128441952, type: 3}
+    coolDown: 3
+  - gunShotSE: {fileID: 8300000, guid: 93e64110a9b2c0a469244dd128441952, type: 3}
+    coolDown: 1
+  - gunShotSE: {fileID: 8300000, guid: 93e64110a9b2c0a469244dd128441952, type: 3}
+    coolDown: 1
+  - gunShotSE: {fileID: 8300000, guid: 93e64110a9b2c0a469244dd128441952, type: 3}
+    coolDown: 4
+  - gunShotSE: {fileID: 8300000, guid: 93e64110a9b2c0a469244dd128441952, type: 3}
+    coolDown: 1
+  - gunShotSE: {fileID: 8300000, guid: 93e64110a9b2c0a469244dd128441952, type: 3}
+    coolDown: 1
+  - gunShotSE: {fileID: 8300000, guid: 93e64110a9b2c0a469244dd128441952, type: 3}
+    coolDown: 1
+  - gunShotSE: {fileID: 8300000, guid: 93e64110a9b2c0a469244dd128441952, type: 3}
+    coolDown: 1
